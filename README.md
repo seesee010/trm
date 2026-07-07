@@ -11,3 +11,15 @@ trm <file/dir>
 ```bash
 trm <file0/dir0> <file1/dir1> <...>
 ```
+
+## Compile it yourself
+
+Linux:
+```bash
+
+```
+
+Win:
+```powershell
+
+```
